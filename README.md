@@ -43,6 +43,9 @@ Use quit to exit the chatbot.
 **Future Improvements**
 
 Implement advanced NLP techniques with spaCy.
+
 Add support for more intents and responses.
+
 Integrate with an API for dynamic answers.
+
 
